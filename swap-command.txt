@@ -1,0 +1,2 @@
+bun run jup-swap-cli.ts --direction buy --mint HJQYB8BGR7rtDyTEuLSRuYFsXEFGUtQJ9PDegBW5pump --amount 0.0001 --amount-in sol --priority-fee 0.00001 --slippage 10 --simulate true
+bun run jup-swap-cli.ts --direction sell --mint HJQYB8BGR7rtDyTEuLSRuYFsXEFGUtQJ9PDegBW5pump --amount 100% --amount-in token --priority-fee 0.00001 --slippage 10 --simulate true
